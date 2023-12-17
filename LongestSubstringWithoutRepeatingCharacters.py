@@ -8,7 +8,6 @@ substring: a contiguous non-empty sequence of characters within a string.
 longest and repeating keywords hint us that its a sliding window problem
     --> https://builtin.com/data-science/sliding-window-algorithm
 '''
-
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """

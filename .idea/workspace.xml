@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9150fa46-ff9f-4089-ab87-b919b9e2d056" name="Changes" comment="commit 2 - TwoSums solution #1">
-      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SoftwareEngineering-Projects/.idea/SoftwareEngineering-Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/ARXIV/arxiv_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702770268375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2 - TwoSums solution #1">
+      <created>1702848490976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702848490976</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
