@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9150fa46-ff9f-4089-ab87-b919b9e2d056" name="Changes" comment="commit 1">
-      <change afterPath="$PROJECT_DIR$/TwoSums.py" afterDir="false" />
+    <list default="true" id="9150fa46-ff9f-4089-ab87-b919b9e2d056" name="Changes" comment="commit 2 - TwoSums solution #1">
+      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareEngineering-Projects/.idea/SoftwareEngineering-Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/ARXIV/arxiv_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../research_assistant_GenAI/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoftwareEngineering-Projects/PythonCode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftwareEngineering-Projects/PythonCode/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -34,7 +46,8 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jteet/Desktop/CODE&quot;
   }
 }</component>
   <component name="RunManager">
@@ -76,12 +89,20 @@
       <option name="project" value="LOCAL" />
       <updated>1702756767199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 2 - TwoSums solution #1">
+      <created>1702770268375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702770268375</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit 2 - TwoSums solution #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2 - TwoSums solution #1" />
   </component>
 </project>
